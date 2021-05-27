@@ -520,8 +520,8 @@ ul.KatMenu1 li.ulVar > a:after { left: auto; border-width: 3px 4px; border-top-c
 .productOnYazi { text-align: left; max-height: 32px; overflow: hidden; float: left; width: 100%; margin: 5px 0; }
 .productPoints { text-align: left; }
 div.productOnYazi * { font-size: 13px; color: #a1a1a1; line-height: 16px; font-weight: normal; background-color: transparent; }
-.newIcon { position: absolute; text-align: center; left: 0; top: 0; background: #cacc34; color: #fff; font-size: 12px; font-weight: 500; width: 45px; height: 25px; line-height: 25px; overflow: hidden; z-index: 8; }
-.discountIcon { position: absolute; text-align: center; right: 0; top: 0; background: #cacc34; color: #fff; font-size: 13px; font-weight: 500; width: 45px; height: 25px; line-height: 25px; overflow: hidden; z-index: 8; }
+.newIcon { position: absolute; text-align: center; left: 0; top: 0; background: #060606; color: #f8ff1c; font-size: 12px; font-weight: 500; width: 45px; height: 25px; line-height: 25px; overflow: hidden; z-index: 8; }
+.discountIcon { position: absolute; text-align: center; right: 0; top: 0; background: #f0d752; color: #000; font-size: 13px; font-weight: 500; width: 45px; height: 25px; line-height: 25px; overflow: hidden; z-index: 8; }
 .cargoIcon { position: absolute; text-align: center; right: 0; top: 0; background: #cacc34; color: #fff; font-size: 12px; font-weight: 500; padding: 0 7px; overflow: hidden; line-height: 30px; z-index: 8; }
 .IndirimliUrun .cargoIcon { top: 35px; }
 .cargoIcon .fa { line-height: 30px; font-size: 15px; }
